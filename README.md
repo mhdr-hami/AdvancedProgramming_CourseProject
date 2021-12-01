@@ -1,2 +1,3 @@
-# MY_APP
-this is a marketing manager app coded by cpp in qt creator. run the "AP_Project2.pro" in qt. sign up as a manager or user and enjoy the app.
+# AdvancedProgramming_CourseProject
+Online Shop Management Application featuring online auction for multiple users, discount
+codes to buy credit, reserving and etc.
